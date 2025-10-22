@@ -1,4 +1,4 @@
-# Video Genuinity Analysis API (No Database)
+# Video Genuinity Analysis API
 
 A FastAPI application that analyzes interview videos using an external proctoring API and generates comprehensive PDF reports.
 
